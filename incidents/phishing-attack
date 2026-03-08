@@ -1,1 +1,23 @@
+# Incident Investigation: Phishing Email Alert
 
+## Alert Summary
+
+A phishing email was detected targeting multiple users within the
+organization.
+
+## Investigation Steps
+
+1. Reviewed email headers
+2. Identified suspicious sender domain
+3. Checked links for malicious URLs
+4. Verified if users clicked the link
+
+## Findings
+
+The sender domain was identified as malicious and blocked.
+
+## Response
+
+- Email blocked at mail gateway
+- Users notified
+- Security awareness reminder sent
